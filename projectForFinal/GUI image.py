@@ -92,7 +92,7 @@ screen_width = window.winfo_screenwidth()
 screen_height = window.winfo_screenwidth()
 
 window.title("IMAGE EDITOR")
-window['background'] = '#8EESEE'
+window['background'] = '#8EE5EE'
 window.geometry(f'{screen_width}x{screen_height}')
 
 Frame1 = tk.Frame(window, height=20, width=screen_width)
@@ -105,7 +105,7 @@ Frame3 = tk.Frame(window, height=20)
 Frame3.pack(anchor=tk.NW)
 
 welcome = tk.Label(Frame1, text="WELCOME TO YOUR OWN IMAGE EDITOR",
-                   font=("ariel 12 bold"), pady=5, padx=407, bg="#8EESEE")
+                   font=("ariel 12 bold"), pady=5, padx=407, bg="#8EE5EE")
 welcome.grid(row=0, column=2)
 
 importButton = tk.Button(Frame1, bg="#FFD700", text="Import", padx=10, pady=5,
