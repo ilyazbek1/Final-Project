@@ -142,11 +142,6 @@ ColorSlider = tk.Scale(Frame2, bg="#8ED2C9", fg="black", troughcolor="#006495",
 ColorSlider.set(1)
 ColorSlider.pack(anchor=tk.N)
 
-yellowButton = tk.Radiobutton(Frame3, bg="#FFD700", text="Yellow Filter",
-                              font=("ariel 10 bold"), width=30, value=1,
-                              command=yellowButton_callback)
-yellowButton.grid(row=0, column=0)
-
 blueButton = tk.Radiobutton(Frame3, bg="#006495", text="Blue Filter",
                             font=("ariel 10 bold"), width=30, value=2,
                             command=blueButton_callback)
