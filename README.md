@@ -1,5 +1,7 @@
 # Final-Project
-Final Project Create a GUI project for batch processing multiple files and submit code to GitHub.  Your project should meet the following requirements:
+Final Project Create a GUI project for batch processing multiple files and submit code to GitHub. 
+Your project should meet the following requirements:
+
 ![Run Step1](https://user-images.githubusercontent.com/102959725/170828934-5095d24a-cb25-4b55-b790-9b85f8a6d2c7.png)
 ![Step2 Import Logo](https://user-images.githubusercontent.com/102959725/170828936-946f7499-3585-4d14-91ec-133fdafd6a52.png)
 ![Step 3 Open Logo](https://user-images.githubusercontent.com/102959725/170828938-b2b8ad9f-d28e-410c-88a0-17e3fa367141.png)
