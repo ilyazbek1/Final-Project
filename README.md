@@ -8,3 +8,4 @@ Your project should meet the following requirements:
 ![Running](https://user-images.githubusercontent.com/102959725/170828940-58b529d7-7849-4ab3-a62c-0e0b76f45a5c.png)
 ![Save Logo](https://user-images.githubusercontent.com/102959725/170828942-84ddb6e4-ffe1-41d0-8664-d2ad78b3839d.png)
 ![Result](https://user-images.githubusercontent.com/102959725/170828944-d332cc92-8295-4dce-81b5-12fecf8c4b24.png)
+![tiger](https://user-images.githubusercontent.com/102959725/170883467-832520f2-dc9b-4de2-92e8-18f8be8c44ff.jpg)
