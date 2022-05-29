@@ -8,13 +8,6 @@ from tkinter import filedialog
 import cv2
 import numpy as np
 
-def yellowButton_callback():
-    opencvImage = cv2.cvtColor(np.array(originalImage), cv2.COLOR_RGB2BGR)
-    opencvImage[:, :, 0] - 100
-    global outputImage
-    outputImage = Image.fromarray(cv2.cvtColor(opencvImage, cv2.COLOR_BGR2RGB))
-    dispayImage(outputImage)
-
 
 def blueButton_callback():
     opencvImage = cv2.cvtColor(np.array(originalImage), cv2.COLOR_RGB2BGR)
